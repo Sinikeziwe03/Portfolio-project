@@ -28,7 +28,7 @@ h1 {
 h2 {
   font-size: 64px;
 }
-h4{
+h3{
   font-size: 48px;
 }
 
@@ -51,7 +51,7 @@ line-height: 14px;
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 .hero p {
@@ -150,10 +150,6 @@ background: var(--branding-color);
 
   h2 {
     font-size: 44px;
-  }
-
-  .hero {
-    padding: 80px 20px;
   }
   .about-section{
     text-align: center;
